@@ -1,5 +1,7 @@
 export default {
-  lang: 'ru',
+  htmlAttrs: {
+    lang: 'ru',
+  },
   title: 'app',
   meta: [
     {
